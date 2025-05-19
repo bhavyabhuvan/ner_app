@@ -22,8 +22,8 @@ This project implements a Named Entity Recognition (NER) pipeline using the spaC
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/ner-project.git
-cd ner-project
+git clone https://github.com/bhavyabhuvan/ner_app.git
+cd ner_app
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 python run.py
